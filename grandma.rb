@@ -11,7 +11,7 @@ puts "NO, NOT SINCE 1938"
 else speak_to_grandma == "I lOVE YOU GRANDMA"
   puts "I LOVE YOU TOO PUMPKIN"
 end
-# If you shout, she can hear you (or at least she thinks so) 
+# If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
 # NO, NOT SINCE 1938!
